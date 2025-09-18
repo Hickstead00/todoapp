@@ -11,6 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
+/Backend/.idea
 
 ### Eclipse ###
 .apt_generated
@@ -38,3 +39,6 @@ build/
 .DS_Store
 
 *.log
+
+/Backend/target/
+/Backend/*.iml
